@@ -20,8 +20,9 @@ Passionate about building interactive, accessible, and scalable web applications
 React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS • Node.js • Express.js • Git & GitHub
 
 ### 📜 Certifications
-- freeCodeCamp – Front End Libraries
-- freeCodeCamp – Responsive Web Design
+- FreeCodeCamp – Front End Libraries
+- FreeCodeCamp – Responsive Web Design
+- Advanced Post Graduate Diploma in Embedded System & Hardware Designing 
 - HP LIFE – AI for Beginners
 - HP LIFE – Success Mindset
 
